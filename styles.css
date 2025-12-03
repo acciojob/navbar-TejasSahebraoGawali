@@ -23,11 +23,12 @@ body {
     padding: 27px 18px;
     font-size: 18px;
     border: 2px solid white;
+	cursor: pointer;
 }
 
 .item:hover {
     background-color: #b90e4d;
-    cursor: pointer;
+   
 }
 
 #item-3 {
